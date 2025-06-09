@@ -1,1 +1,2 @@
-
+demonstating pull commands 
+from remote to the local
